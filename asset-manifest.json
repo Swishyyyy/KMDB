@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KMDB/static/css/main.7f770b19.css",
+    "main.js": "/KMDB/static/js/main.8be9a1ae.js",
+    "index.html": "/KMDB/index.html",
+    "main.7f770b19.css.map": "/KMDB/static/css/main.7f770b19.css.map",
+    "main.8be9a1ae.js.map": "/KMDB/static/js/main.8be9a1ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f770b19.css",
+    "static/js/main.8be9a1ae.js"
+  ]
+}
